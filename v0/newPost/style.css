@@ -1,0 +1,23 @@
+body {
+    font-family: "Anton", sans-serif;
+    font-size: 30px ; 
+}
+
+form {
+grid-column: 2 / span 3;
+grid-row: 1/ spna 3;
+}
+
+input {
+background-color: #347355;
+}
+
+textarea {
+    background-color: #347355;
+}
+
+button {
+    background-color: #BF8563;
+}
+
+

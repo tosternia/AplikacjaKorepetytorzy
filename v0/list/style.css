@@ -1,0 +1,26 @@
+body {
+    font-family: "Anton", sans-serif;
+    font-size: 15px ; 
+}
+
+form {
+grid-column: 2 / span 3;
+grid-row: 1/ spna 3;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+table, th, td {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+th {
+    background-color: #2A5943;
+    color: #FFFDFF;
+}
+button {
+    background-color: #BF8563;
+}
